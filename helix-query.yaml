@@ -4,12 +4,12 @@ indices:
     include:
       - "/**"
     target: /query-index.xlsx
-  properties:
-  title:
-    select: head > meta[property="og:title"]
-    value: |
-      attribute(el, 'content')
-  description:
-    select: head > meta[name="og:description"]
-    value: |
-      attribute(el, 'content')
+    properties:
+      title:
+        select: head > meta[property="og:title"]
+        value: |
+          attribute(el, 'content')
+      description:
+        select: head > meta[property="og:description"]
+        value: |
+          attribute(el, 'content')
