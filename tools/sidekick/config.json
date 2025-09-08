@@ -10,6 +10,16 @@
       "url": "https://www.aem.live/developer/tutorial"
     },
     {
+      "id": "AEM-Asset",
+      "name": "AEM Asset",
+      "description": "AEM Asset",
+      "version": "1.0.0",
+      "author": "Adobe",
+      "url": "https://experienceleague.adobe.com/en/docs/core-services/interface/services/assets/experience-cloud-assets",
+      "passConfig": true,
+      "isPaletteEnabled": true
+    },
+    {
       "id": "Tool",
       "name": "Tool for AEM",
       "description": "Tool for AEM",
