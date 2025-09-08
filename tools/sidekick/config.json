@@ -10,12 +10,22 @@
       "url": "https://www.aem.live/developer/tutorial"
     },
     {
+      "id": "Tool",
+      "name": "Tool for AEM",
+      "description": "Tool for AEM",
+      "version": "1.0.0",
+      "author": "Adobe",
+      "isCssEnabled": true
+    },
+    {
+      "containerId": "Tool",
       "id": "Google-Assist",
       "name": "Google Assistant",
       "description": "Google Assistant",
       "version": "1.0.0",
       "author": "Google",
-      "url": "https://www.aem.live/developer/ue-tutorial"
+      "url": "https://www.aem.live/developer/ue-tutorial",
+      "isCssEnabled": true
     }
   ]
 }
