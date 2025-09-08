@@ -7,16 +7,15 @@
       "version": "1.0.0",
       "author": "Adobe",
       "license": "Apache License 2.0",
-      "homepage": "https://github.com/adobe/aem-boilerplate"
+      "url": "https://www.aem.live/developer/tutorial"
     },
     {
-      "id": "aem-boilerplate-plugin",
-      "name": "AEM Boilerplate Plugin",
-      "description": "AEM Boilerplate Plugin",
+      "id": "Google-Assist",
+      "name": "Google Assistant",
+      "description": "Google Assistant",
       "version": "1.0.0",
-      "author": "Adobe",
-      "license": "Apache License 2.0",
-      "homepage": "https://github.com/adobe/aem-boilerplate-plugin"
+      "author": "Google",
+      "url": "https://www.aem.live/developer/ue-tutorial"
     }
   ]
 }
