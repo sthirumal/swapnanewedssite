@@ -1,0 +1,22 @@
+{
+  "plugins": [
+    {
+      "id": "aem-boilerplate",
+      "name": "AEM Boilerplate",
+      "description": "AEM Boilerplate",
+      "version": "1.0.0",
+      "author": "Adobe",
+      "license": "Apache License 2.0",
+      "homepage": "https://github.com/adobe/aem-boilerplate"
+    },
+    {
+      "id": "aem-boilerplate-plugin",
+      "name": "AEM Boilerplate Plugin",
+      "description": "AEM Boilerplate Plugin",
+      "version": "1.0.0",
+      "author": "Adobe",
+      "license": "Apache License 2.0",
+      "homepage": "https://github.com/adobe/aem-boilerplate-plugin"
+    }
+  ]
+}
