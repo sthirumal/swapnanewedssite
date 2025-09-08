@@ -10,6 +10,15 @@
       "url": "https://www.aem.live/developer/tutorial"
     },
     {
+      "id": "Block-Library",
+      "name": "Block-Library",
+      "description": "Block-Library",
+      "version": "1.0.0",
+      "author": "Adobe",
+      "license": "Apache License 2.0",
+      "url": "/tools/sidekick/library.html"
+    },
+    {
       "id": "AEM-Asset",
       "name": "AEM Asset",
       "description": "AEM Asset",
