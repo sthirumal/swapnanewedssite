@@ -17,8 +17,9 @@
       "author": "Adobe",
       "url": "https://experienceleague.adobe.com/en/docs/core-services/interface/services/assets/experience-cloud-assets",
       "passConfig": true,
+      "passReferer": true,
       "isPaletteEnabled": true,
-      "paletteRect": "top:50px, right:50px, width:300px, height:300px"
+      "paletteRect": "top:50px, bottom:50px, right:50px, left:50px, autoWidth:300px, autoHeight:300px"
     },
     {
       "id": "Tool",
