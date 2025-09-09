@@ -29,3 +29,12 @@ indices:
         select: head > meta[name="theme"]
         value: |
           attribute(el, 'content')
+      author:
+        select: none
+        value: |
+          header['Author']
+      pagetitle:
+        selectFirst: h1
+        value: |
+          textContent(el)
+                   
