@@ -32,7 +32,7 @@ indices:
       author:
         select: none
         value: |
-          header['Author']
+          headers['Author']
       pagetitle:
         selectFirst: h1
         value: |
