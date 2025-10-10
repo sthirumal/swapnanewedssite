@@ -10,6 +10,15 @@
       "url": "https://www.aem.live/developer/tutorial"
     },
     {
+      "id": "aem-test",
+      "name": "AEM test",
+      "description": "test",
+      "version": "1.0.0",
+      "author": "Adobe",
+      "license": "Apache License 2.0",
+      "url": "https://www.aem.live/developer/tutorial"
+    },
+    {
       "id": "AEM-Asset",
       "name": "AEM Asset",
       "description": "AEM Asset",
